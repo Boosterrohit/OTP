@@ -1,0 +1,21 @@
+.whole-form{
+    /* background-color: pink;   */
+    /* width: 90%; */
+}
+.whole-form{
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    padding: 2rem;
+}
+.second-container{
+    /* width: 95%; */
+    text-align: center;
+}
+.second-container h3{
+    font-size: 1.9rem;
+}
+.second-container p{
+    font-size: 1rem;
+    color: rgba(0, 0, 0, 0.5);
+    font-weight: 400;
+}

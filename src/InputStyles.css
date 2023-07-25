@@ -1,0 +1,25 @@
+label{
+    color: red;
+    font-weight: bold;
+    font-size: 0.6rem;
+    text-align: left !important;
+}
+input{
+    background-color: rgb(227, 224, 219);
+    /* text-align: center; */
+    outline: none;
+    border: none;
+    width: 100%;
+    height: 34px;
+    padding: 0 0 0 10px;
+}
+.kk .rr{
+    background-color: rgb(31, 63, 159);
+    margin-top: 1rem;
+    width: 100%;
+    border: none;
+    color: white;
+    font-weight: bold;
+    font-size: 0.8rem;
+    padding: 12px 32px;
+}
